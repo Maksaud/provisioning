@@ -1,3 +1,2 @@
 .vagrant
-environment
-app
+*.log
